@@ -1,5 +1,5 @@
 这是书籍《深度学习框架PyTorch：入门与实践》的对应代码，但是也可以作为一个独立的PyTorch入门指南和教程。
-
+[PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/package_references/Tensor/)
 
 ## 内容
 
